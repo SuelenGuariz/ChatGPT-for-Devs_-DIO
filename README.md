@@ -4,7 +4,7 @@
 
 **Descrição do Podcast:**
 
-"Conversas Criativas" explora a interseção entre arte, criatividade e tecnologia. Em nosso episódio mais recente, investigamos se os algoritmos são criativos ou simplesmente imitadores na arte gerada por IA. Descubra exemplos, perspectivas e reflexões neste mergulho fascinante na fronteira da inovação.
+"ART AI -CHANNEL" explora a interseção entre arte, criatividade e tecnologia. Em nosso episódio mais recente, investigamos se os algoritmos são criativos ou simplesmente imitadores na arte gerada por IA. Descubra exemplos, perspectivas e reflexões neste mergulho fascinante na fronteira da inovação.
 
 --- 
 **Descrição Técnica:**
