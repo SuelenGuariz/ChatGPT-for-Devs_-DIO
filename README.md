@@ -19,6 +19,4 @@ No geral, a combinação dessas ferramentas tecnológicas avançadas possibilito
 
 Para este episódio do podcast " Algoritmos Criativos ou Máquinas Imitadoras? Reflexões sobre a Arte Gerada por IA", busquei inspiração em meu canal no YouTube, onde abordo diversos temas relacionados à inteligência artificial. Ao perceber o interesse crescente dos meus seguidores por debates sobre a interseção entre criatividade e IA, decidi explorar mais a fundo o tema da arte gerada por algoritmos.
 
-**Canal do youtube:**
 
-https://www.youtube.com/@ArteAIChannel
